@@ -1,5 +1,5 @@
 # ApiRegistroPersona
-API que permite el registro de personas y usuarios
+Permite el registro de Entidades de tipo personas y Usuarios en una base de datos.
 
 # Instalación y prueba de API 
 1. Para poder desplegar aplicaciones .Net core es necesario .NET Core Hosting Bundle el cual prepara IIS para .net core.
