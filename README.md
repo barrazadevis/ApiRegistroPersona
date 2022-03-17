@@ -9,8 +9,14 @@ Permite el registro de Entidades de tipo personas y Usuarios en una base de dato
 2. Descargar y descomprimir el archivo ApiRegistroPersona.rar, el cual se encuentra en el repositorio
 3. Ejecutar el script de base de datos llamado "BaseDatos.sql"
 4. Verificar la cadena de conexion en el archivo "appsettings.json" configurar el servidor que correspondan y las credenciales para acceder a la base de datos.
+   ![image](https://user-images.githubusercontent.com/39510736/158765112-f0ad8845-2bea-4995-a347-581b214129ad.png)
+
 5. Ingresar al IIS y en sitios, Default Web Site, dar clic derecho y seleccionar la opción agregar aplicación.
-6. Agregar un nombre para el Api y seleccionar la ruta donde se encuentra el Api, en este caso será donde se haya descomprimido el archivo ApiRegistroPersona.rar
+   ![image](https://user-images.githubusercontent.com/39510736/158765230-832ad6a0-0982-443b-9027-5358e064fc3a.png)
+
+7. Agregar un nombre para el Api y seleccionar la ruta donde se encuentra el Api, en este caso será donde se haya descomprimido el archivo ApiRegistroPersona.rar y dar    clic en aceptar
+   ![image](https://user-images.githubusercontent.com/39510736/158765481-ca3365af-c4df-4b11-906e-b1a5dc68b9bf.png)
+
 
 # Documentación
 El API desarrollada, cuenta con tres controladores
